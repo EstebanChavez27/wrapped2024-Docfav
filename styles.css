@@ -52,6 +52,8 @@ body {
     border-radius: 15px;
     max-width: 900px;
     width: 90%;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .slide {
